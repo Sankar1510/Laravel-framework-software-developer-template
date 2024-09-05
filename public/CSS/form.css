@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;   
+}
+.form-control {
+    width: 45% !important;
+}
+form{
+    margin-left: 220px;
+}
+.btv{
+    padding: 9px;
+    background: green;
+    border-radius: 14px;
+    margin-left: 330px;
+    width: 120px;
+}
+h1{
+    margin-left: 220px;
+}
+.view{
+    text-align: center;
+    background: gray;
+}
+h3{
+    margin-left: 220px;
+}
+.inf{
+    position: relative;
+    left: 920px;
+    top: 73px;
+    width: 120px;
+    border-radius: 13px;
+    background: green;
+}
